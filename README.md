@@ -1,5 +1,6 @@
 # FilMere
-Link to live site - https://gateremark.github.io/FilMere/.
+Link to live site - [https://shreyaj5636.github.io/movie-review-platform/
+]
 
 This is a movie app project built using HTML, CSS, and JavaScript. It utilizes the TMDB API to fetch movie data and provides a user-friendly interface for users to browse and explore various movies.
 
@@ -34,3 +35,4 @@ This movie app project utilizes the [TMDB API](https://www.themoviedb.org/) to f
 
 ## Contributions
 Contributions to this movie app project are welcome! If you find any bugs, have suggestions for new features, or would like to contribute in any way, please open an issue or submit a pull request.
+
